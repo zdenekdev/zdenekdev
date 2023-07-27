@@ -3,7 +3,7 @@ Hi, I'm Zdenek Kucera
 Front-End Developer
 ----------------------
 
-* 🌍  I'm based in Brno
+* 🌍  I'm based in Brno, Czech Republic
 * 🖥️  See my portfolio at [Portfolio](http://notyet.com)
 * ✉️  You can contact me at [kucera.contact@gmail.com](mailto:kucera.contact@gmail.com)
 * 🧠  I'm currently working on deepening my Front-End Developer knowledge
