@@ -1,10 +1,8 @@
-Hi, my name is Zdenek Kucera. 
-----------------------
-I am a Front-End Developer.
+Hi, I'm Zdenek Kucera, a Front-End Developer. 
 ----------------------
 
 * 🌍  I'm based in Brno, Czech Republic
-* 🖥️  See my portfolio at [Portfolio](http://notyet.com)
+* 🖥️  See my [portfolio](https://portfolio-eight-tan-96.vercel.app/)
 * ✉️  You can contact me at [kucera.contact@gmail.com](mailto:kucera.contact@gmail.com)
 * 🧠  I'm currently working on deepening my Front-End Developer knowledge
 * 🤝  Seeking for job opportunities
