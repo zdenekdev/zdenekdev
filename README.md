@@ -1,6 +1,6 @@
-Hi, I'm Zdenek Kucera
+Hi, my name is Zdenek Kucera. 
 ----------------------
-Front-End Developer
+I am a Front-End Developer.
 ----------------------
 
 * 🌍  I'm based in Brno, Czech Republic
