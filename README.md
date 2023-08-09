@@ -2,7 +2,7 @@ Hi, I'm Zdenek Kucera, a Front-End Developer.
 ----------------------
 
 * 🌍  I'm based in Brno, Czech Republic
-* 🖥️  See my [portfolio](https://portfolio-eight-tan-96.vercel.app/)
+* 🖥️  See my [portfolio](https://zdenekkucera.vercel.app/)
 * ✉️  You can contact me at [kucera.contact@gmail.com](mailto:kucera.contact@gmail.com)
 * 🧠  I'm currently working on deepening my Front-End Developer knowledge
 * 🤝  Seeking for job opportunities
@@ -26,4 +26,4 @@ Hi, I'm Zdenek Kucera, a Front-End Developer.
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/notyet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/kucerazdenek/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
